@@ -1,0 +1,22 @@
+Sorcier;66966;Webb;Gretchen;femelle;stagiaire;novice;telekinesie-transformation d'objets;;
+Sorcier;66545;Caladrius;Ange;male;neant;giga;guerison-morphing-persuasion;;
+Monstre;66634;Noudjemet;Aton;male;neant;120;428;;
+Monstre;66854;Bucentaure;Jenny;femelle;neant;134;;;
+Monstre;66254;Ponsable;Therese;autre;neant;105;684;;
+Demon;66605;Malkiewicz;Deborah;femelle;directrice Communication;253;neant;5;
+Demon;66987;Zahner;Aurelien;male;neant;260;428;7;
+Demon;66754;Cypher;Luc;male;neant;82;;2;
+Fantome;66603;Belbertel;Yves;male;directeur artistique;1000;parc;;
+Fantome;66654;Ahkiyyini;Oki;autre;neant;300;;;
+LoupGarou;66604;Canilhac;Blaise;male;directeur Ressources Humaines;423;neant;1,2;
+LoupGarou;66548;Amarok;Louis;male;neant;309;428;3,8;
+Vampire;66602;Von Bloodt;Rose;femelle;directrice generale;5000;neant;1,2;
+Vampire;66601;Von Bloodt;Francis;male;directeur d'exploitation;4500;neant;1,5;
+Vampire;66787;Spriggan;Steven;male;neant;850;112;3;
+Zombie;66655;Jefferson;Sirius;male;delegue syndicale;463;428;grisatre;10
+Zombie;66855;Cabanis;Honorine;femelle;neant;452;428;bleuatre;6
+Boutique;623;Aux surprises de satan;3;false;;souvenir;;;
+Boutique;684;Barbe Noire;1;false;;barbeAPapa;;;
+DarkRide;428;Train Fantome;15;true;zombie;12;true;;
+RollerCoaster;112;Montagnes slaves de la mort;8;true;vampire;bobsleigh;10;1,2;
+Spectacle;523;Thriller;4;false;;Nergal;144;10:15 12:15 14:15 16:15;
